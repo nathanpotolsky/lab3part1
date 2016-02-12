@@ -1,6 +1,6 @@
 Nathan Potolsky
 
-Put image here
+![alt tag](https://github.com/nathanpotolsky/lab3part1/blob/master/Images/photo.jpg)
 
 I'm graduating in Spring of 2018
 
