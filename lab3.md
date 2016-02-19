@@ -10,4 +10,6 @@ Git log Screenshot
 Learn git branching Screenshot
 ![alt tag](https://github.com/nathanpotolsky/lab3part1/blob/master/Images/learngitbranching.png)
 
-Course project repo location https://github.com/nathanpotolsky/courseproject
+Course Project Repo Location https://github.com/nathanpotolsky/courseproject
+
+Story Repo Location https://github.com/JFTung/Story
